@@ -1,5 +1,6 @@
 package heranca;
 
+
 public class Cavalo extends Animal{
 
 	private String raca;

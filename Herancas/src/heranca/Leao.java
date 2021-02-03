@@ -1,5 +1,6 @@
 package heranca;
 
+
 public class Leao extends Animal{
 	
 	private boolean juba;

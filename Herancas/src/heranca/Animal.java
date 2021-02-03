@@ -1,5 +1,6 @@
 package heranca;
 
+
 public class Animal {
 
 	private float tamanho;
